@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulletProgram", "BulletProgram\BulletProgram.csproj", "{AF5D45C4-4E01-4890-AB30-590D2199AABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF5D45C4-4E01-4890-AB30-590D2199AABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5D45C4-4E01-4890-AB30-590D2199AABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5D45C4-4E01-4890-AB30-590D2199AABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5D45C4-4E01-4890-AB30-590D2199AABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF71A677-E770-40A7-ABDF-F7615178B07A}
+	EndGlobalSection
+EndGlobal
